@@ -1,0 +1,33 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.66.1",
+    "@react-three/fiber": "^8.13.0",
+    "@readyplayerme/visage": "^3.5.2",
+    "eslint": "8.39.0",
+    "eslint-config-next": "13.3.2",
+    "framer-motion": "^10.12.4",
+    "next": "13.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "suspend-react": "^0.0.9",
+    "three": "^0.152.2",
+    "three-stdlib": "^2.21.10",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "18.16.3",
+    "@types/react": "18.2.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2"
+  }
+}
